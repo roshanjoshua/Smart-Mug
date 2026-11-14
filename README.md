@@ -8,6 +8,9 @@ To overcome this limitation, the proposed system incorporates an automatic tempe
 
 The product design was registered under the name **SMART SELF-HEATING MUG**, Design No. 412581-001, with the registration dated 04 April 2024.
 
+<img width="785" height="830" alt="image" src="https://github.com/user-attachments/assets/efb03dea-f31c-4480-81a6-dc1071e12518" />
+
+
 ## 2. Embedded Control System
 
 The entire system is controlled using an Arduino Nano microcontroller, which acts as the central processing unit. It receives temperature measurements from the temperature sensor and processes them to determine whether the beverage requires additional heating.
@@ -24,6 +27,9 @@ A seven-segment display is incorporated to provide real-time temperature informa
 
 The temperature-monitoring functionality is central to the system because it enables intelligent heating based on actual beverage conditions rather than operating the heater continuously.
 
+<img width="300" height="400" alt="WhatsApp Image 2026-11-09 at 10 39 52 PM (4)" src="https://github.com/user-attachments/assets/a8236c7d-77f6-4c7a-a35e-9e03681114a2" /> <img width="300" height="400" alt="WhatsApp Image 2026-11-09 at 10 39 52 PM (5)" src="https://github.com/user-attachments/assets/8357cd7b-1bba-409f-93d1-a1c24f6c7a96" />
+
+
 ## 4. Heating Mechanism and Power Management
 
 A Peltier module is employed as the primary thermal component, with a relay module controlling its operation based on the temperature feedback received by the microcontroller.
@@ -39,6 +45,9 @@ The mechanical assembly incorporates a conducting tumbler and mug structure to f
 An important design objective is to deactivate the heating mechanism while a person is drinking, improving the intended user experience and reducing unnecessary heating during consumption.
 
 The system also aims to achieve a beverage temperature of approximately 80°C, subject to the beverage's initial temperature and operating conditions.
+
+<img width="1015" height="859" alt="image" src="https://github.com/user-attachments/assets/81d82456-cfee-47b7-9a33-c51f0aee5840" />
+
 
 ## 6. Applications and Future Scope
 
